@@ -13,20 +13,16 @@ Each treasury allocation proposal requires the following information to be provi
 * The purpose of the transfer. This can include the allocation of the funds to delegated traders/farmers, to conduct purchases of specific assets, to perform token buybacks, or to pay external parties for services.
 * Justification for the transfer, if one or any of the recipient addresses are not known to the team.
 
-Each treasury allocation will undergo detailed scrutiny by the DAO proposal team, ensuring that all information provided meets sufficient standards to justify moving the proposal to the smart contract itself. This is predominantly to protect the project from DAO attacks, whereby malicious actors without these guards in place can openly raise proposals with no impedance and put the treasury at risk of theft.
-
-In the case of transferring funds to delegated traders/farmers, these proposals are expected to only be required to be performed on a monthly basis, and also to only terminate existing agreements for a lack of performance or to increase an existing allocation. Performance of delegated traders is something that will only be measurable across calendar month timespans, and the DAO should only be engaged where necessary for this ongoing management.
-
+Each treasury allocation will undergo detailed scrutiny by the DAO proposal team, ensuring that all information provided meets sufficient standards to justify moving the proposal to the smart contract itself. Whilst any proposal can be opened on chain, it will not be queued for release by the timelock unless it has undergone the correct proposal processes.
 
 ## Contract Modification Proposals
 
 Each contract modification proposal requires the following information to be provided:
 
-* The specific contract parameter (e.g. Modify AGFI Fee Rate)
+* The specific contract parameter (e.g. Modify AGFI Channel 3 Buy Fee Rate)
 * The purpose of the modification, and a justification as to requiring the modification to be made.
 
 As modifications to the AGFI contract will not actually be performed by the DAO contract, the DAO custodian will be entrusted to execute the modification if the proposal passes the vote.
-
 
 ## Management Proposals
 
