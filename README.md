@@ -4,6 +4,14 @@ Welcome to the DAO proposal management tool for the AGFI Project.
 
 Each proposal must be created as an `issue` in this project. Each proposal type will need to adhere to the guidance specified in the white paper, as well as templates defined within this document. Any proposals that do not follow these rules may be deleted at the discretion of the DAO Proposer team.
 
+## Links
+
+[Timelock](https://etherscan.io/address/0x97eee9c5b9a4b089813365ccf0315c4e9aa6f516)
+
+[Governor](https://etherscan.io/address/0xd243f9aafcf32e60b2e9d0ff016cf7f1552d5952)
+
+[Voting Interface (Tally)](https://www.tally.xyz/governance/eip155:1:0xD243F9aAfCf32e60b2e9D0FF016cf7f1552d5952)
+
 ## Treasury Allocation Proposals
 
 Each treasury allocation proposal requires the following information to be provided:
